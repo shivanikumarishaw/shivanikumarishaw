@@ -1,17 +1,36 @@
-# 💫 Hi 👋, I'm Shivani Kumari Shaw
-**A passionate Data Analyst**
+💫 Hi 👋, I'm Shivani Kumari Shaw
+📊 A Passionate Data Analyst
 
-Email Me 👉 ✉️ **shivanishaw5555@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📧 Email Me: ✉️ shivanishaw5555@gmail.com
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** shivani shaw
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+For collaboration, projects, or any data-related discussion 😊
 
+🔭 I’m currently working on:
+Real-world Data Analysis projects using Excel, SQL, Python, Power BI & Tableau (including Blinkit sales & operations analysis)
+
+🌱 I’m currently learning:
+Advanced SQL queries, Python for data analysis, Power BI DAX, and Data storytelling
+
+👯 I’m looking to collaborate on:
+Data Analysis projects, dashboards, business insights, and open-source analytics work
+
+🤔 I’m looking for help with:
+Improving analytical thinking, real-time datasets, and industry-level data projects
+
+💬 Ask me about:
+Data Analysis, Excel dashboards, Power BI, SQL queries, Python (Pandas, Matplotlib), and project guidance
+
+📫 How to reach me:
+📧 shivanishaw5555@gmail.com
+
+🔗 LinkedIn & GitHub (available on my profile)
+
+😄 Pronouns: She / Her
+
+⚡ Fun fact:
+I love turning raw data into meaningful insights 📈 — and yes, Tech loves me back! 😄
+
+If you want, I can also:
 
 
 ## 🌐 Socials:
